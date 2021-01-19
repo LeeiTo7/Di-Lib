@@ -1,0 +1,180 @@
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\obj\Debug\SupplierProject.csproj.CoreCompileInputs.cache
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\SupplierProject.dll.config
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\SupplierProject.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\SupplierProject.pdb
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\csc.exe
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\csc.exe.config
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\csc.rsp
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\csi.exe
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\csi.exe.config
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\csi.rsp
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.AppContext.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.Console.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\vbc.exe
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\vbc.exe.config
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\vbc.rsp
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\MiddleLayer.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\DatabaseLayer.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\MiddleLayer.pdb
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\bin\DatabaseLayer.pdb
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\obj\Debug\SupplierProject.csproj.CopyComplete
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\obj\Debug\SupplierProject.dll
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\obj\Debug\SupplierProject.pdb
+C:\Users\90554\Desktop\tasarım\turul\SupplierProject\SupplierProject\obj\Debug\SupplierProject.csprojAssemblyReference.cache
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\SupplierProject.dll.config
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\SupplierProject.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\SupplierProject.pdb
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\csc.exe
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\csc.exe.config
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\csc.rsp
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\csi.exe
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\csi.exe.config
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\csi.rsp
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.AppContext.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.Console.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\vbc.exe
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\vbc.exe.config
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\vbc.rsp
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\MiddleLayer.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\DatabaseLayer.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\MiddleLayer.pdb
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\bin\DatabaseLayer.pdb
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\obj\Debug\SupplierProject.csproj.CoreCompileInputs.cache
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\obj\Debug\SupplierProject.csproj.CopyComplete
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\obj\Debug\SupplierProject.dll
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\obj\Debug\SupplierProject.pdb
+C:\Users\90554\Desktop\turul\SupplierProject\SupplierProject\obj\Debug\SupplierProject.csprojAssemblyReference.cache
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\SupplierProject.dll.config
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\SupplierProject.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\SupplierProject.pdb
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\csc.exe
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\csc.exe.config
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\csc.rsp
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\csi.exe
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\csi.exe.config
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\csi.rsp
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.AppContext.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.Console.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\vbc.exe
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\vbc.exe.config
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\vbc.rsp
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\MiddleLayer.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\DatabaseLayer.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\MiddleLayer.pdb
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\bin\DatabaseLayer.pdb
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\obj\Debug\SupplierProject.csprojAssemblyReference.cache
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\obj\Debug\SupplierProject.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\obj\Debug\SupplierProject.csproj.CopyComplete
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\obj\Debug\SupplierProject.dll
+C:\Users\Onur\Desktop\Yeni klasör (2)\DiLib\SupplierProject\SupplierProject\obj\Debug\SupplierProject.pdb

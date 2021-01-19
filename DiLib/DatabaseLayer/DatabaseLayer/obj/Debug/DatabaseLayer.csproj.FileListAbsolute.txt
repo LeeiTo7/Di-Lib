@@ -1,0 +1,12 @@
+C:\Users\90554\Desktop\tasarım\turul\DatabaseLayer\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\90554\Desktop\tasarım\turul\DatabaseLayer\DatabaseLayer\obj\Debug\DatabaseLayer.csprojAssemblyReference.cache
+C:\Users\90554\Desktop\tasarım\turul\DatabaseLayer\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\90554\Desktop\tasarım\turul\DatabaseLayer\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Users\90554\Desktop\tasarım\turul\DatabaseLayer\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+C:\Users\90554\Desktop\tasarım\turul\DatabaseLayer\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CopyComplete
+C:\Users\90554\Desktop\turul\DatabaseLayer\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\90554\Desktop\turul\DatabaseLayer\DatabaseLayer\obj\Debug\DatabaseLayer.csprojAssemblyReference.cache
+C:\Users\90554\Desktop\turul\DatabaseLayer\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\90554\Desktop\turul\DatabaseLayer\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CopyComplete
+C:\Users\90554\Desktop\turul\DatabaseLayer\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Users\90554\Desktop\turul\DatabaseLayer\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
